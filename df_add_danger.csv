@@ -1,0 +1,330 @@
+,Fonction principale,Notre appréciation,new_col
+0,Colorant,1,E101
+1,Colorant,1,E132
+2,Colorant,1,E150a
+3,Colorant,1,E160a
+4,Colorant,1,E160c
+5,Colorant,1,E160d
+6,Colorant,1,E161b
+7,Colorant,1,E162
+8,Colorant,1,E163
+9,Conservateur,1,E200
+10,Conservateur,1,E202
+11,Conservateur,1,E234
+12,Conservateur,1,E260
+13,Conservateur,1,E261
+14,Conservateur,1,E262
+15,Conservateur,1,E263
+16,Conservateur,1,E270
+17,Conservateur,1,E290
+18,Conservateur,1,E296
+19,Conservateur,1,E297
+20,Antioxydant,1,E300
+21,Antioxydant,1,E301
+22,Antioxydant,1,E302
+23,Antioxydant,1,E304
+24,Antioxydant,1,E306
+25,Antioxydant,1,E307
+26,Antioxydant,1,E308
+27,Antioxydant,1,E309
+28,Antioxydant,1,E315
+29,Antioxydant,1,E316
+30,Antioxydant,1,E325
+31,Antioxydant,1,E326
+32,Antioxydant,1,E327
+33,Antioxydant,1,E334
+34,Antioxydant,1,E335
+35,Antioxydant,1,E336
+36,Antioxydant,1,E337
+37,Antioxydant,1,E350
+38,Antioxydant,1,E351
+39,Antioxydant,1,E352
+40,Antioxydant,1,E353
+41,Antioxydant,1,E354
+42,Régulateur d'acidité,1,E355
+43,Régulateur d'acidité,1,E356
+44,Régulateur d'acidité,1,E357
+45,Régulateur d'acidité,1,E363
+46,Antioxydant,1,E392
+47,Agent de texture,1,E400
+48,Agent de texture,1,E401
+49,Agent de texture,1,E402
+50,Agent de texture,1,E403
+51,Agent de texture,1,E404
+52,Agent de texture,1,E405
+53,Agent de texture,1,E418
+54,Agent de texture,1,E423
+55,Agent de texture,1,E427
+56,Agent de texture,1,E444
+57,Agent de texture,1,E456
+58,Agent de texture,1,E499
+59,Régulateur d'acidité,1,E501
+60,Régulateur d'acidité,1,E503
+61,Régulateur d'acidité,1,E507
+62,Exhausteur de goût,1,E508
+63,Agent de texture,1,E509
+64,Régulateur d'acidité,1,E513
+65,Régulateur d'acidité,1,E514
+66,Régulateur d'acidité,1,E515
+67,Régulateur d'acidité,1,E516
+68,Agent de traitement des farines,1,E517
+69,Régulateur d'acidité,1,E524
+70,Régulateur d'acidité,1,E525
+71,Régulateur d'acidité,1,E526
+72,Régulateur d'acidité,1,E527
+73,Régulateur d'acidité,1,E528
+74,Régulateur d'acidité,1,E529
+75,Agent d'enrobage,1,E570
+76,Régulateur d'acidité,1,E574
+77,Séquestrant,1,E576
+78,Régulateur d'acidité,1,E577
+79,Régulateur d'acidité,1,E578
+80,Agent de rétention de la couleur,1,E579
+81,Agent de rétention de la couleur,1,E585
+82,Exhausteur de goût,1,E640
+83,Exhausteur de goût,1,E641
+84,Antiagglomérant,1,E900
+85,Agent d'enrobage,1,E901
+86,Agent d'enrobage,1,E902
+87,Agent d'enrobage,1,E903
+88,Agent d'enrobage,1,E904
+89,Agent d'enrobage,1,E907
+90,Agent de traitement des farines,1,E920
+91,Humectant,1,E927b
+92,Gaz de conditionnement,1,E938
+93,Gaz de conditionnement,1,E939
+94,Gaz de conditionnement,1,E941
+95,Gaz propulseur,1,E943a
+96,Gaz propulseur,1,E943b
+97,Gaz propulseur,1,E944
+98,Gaz de conditionnement,1,E949
+99,Agent de texture,1,E1103
+100,Agent de texture,1,E1201
+101,Agent de rétention de la couleur,1,E1202
+102,Agent d'enrobage,1,E1203
+103,Agent d'enrobage,1,E1204
+104,Agent d'enrobage,1,E1205
+105,Agent d'enrobage,1,E1206
+106,Agent d'enrobage,1,E1207
+107,Agent d'enrobage,1,E1208
+108,Agent d'enrobage,1,E1209
+109,Agent de texture,1,E1404
+110,Agent de texture,1,E1420
+111,Agent de texture,1,E1422
+112,Agent de texture,1,E1450
+113,Agent de texture,1,E1451
+114,Support,1,E1517
+115,Agent de texture,1,E1518
+116,Support,1,E1519
+117,Agent de texture,1,E1520
+118,Agent de texture,1,E1521
+0,Colorant,2,E100
+1,Colorant,2,E127Érythrosine
+2,Colorant,2,E133
+3,Colorant,2,E140
+4,Colorant,2,E141
+5,Colorant,2,E142
+6,Colorant,2,E150b
+7,Colorant,2,E151
+8,Colorant,2,E153
+9,Colorant,2,E155
+10,Colorant,2,E160b(i)
+11,Colorant,2,E160b(ii)
+12,Colorant,2,E160e
+13,Colorant,2,E170
+14,Colorant,2,E175
+15,Colorant,2,E180
+16,Conservateur,2,E215
+17,Conservateur,2,E219
+18,"Conservateur, agent de blanchiment (freine le brunissement)",2,E220
+19,"Conservateur, agent de blanchiment (freine le brunissement)",2,E221
+20,"Conservateur, agent de blanchiment (freine le brunissement)",2,E222
+21,"Conservateur, agent de blanchiment (freine le brunissement)",2,E223
+22,"Conservateur, agent de blanchiment (freine le brunissement)",2,E224
+23,Conservateur,2,E226
+24,Conservateur,2,E227
+25,Conservateur,2,E228
+26,Conservateur,2,E235
+27,Conservateur,2,E239
+28,Conservateur,2,E242
+29,Conservateur,2,E243Éthyl
+30,Conservateur,2,E280
+31,Conservateur,2,E281
+32,Conservateur,2,E282
+33,Conservateur,2,E283
+34,Antioxydant,2,E310
+35,Antioxydant,2,E321
+36,"Antioxydant, agent de texture",2,E322
+37,Antioxydant,2,E330
+38,Antioxydant,2,E331
+39,Antioxydant,2,E332
+40,Antioxydant,2,E333
+41,Antioxydant,2,E380
+42,Antioxydant,2,E385
+43,Agent de texture,2,E406
+44,Agent de texture,2,E407
+45,Agent de texture,2,E407a
+46,Agent de texture,2,E410
+47,Agent de texture,2,E412
+48,Agent de texture,2,E413
+49,Agent de texture,2,E414
+50,Agent de texture,2,E415
+51,Agent de texture,2,E416
+52,Agent de texture,2,E417
+53,Édulcorant,2,E420
+54,Édulcorant,2,E421
+55,Agent de texture,2,E422
+56,Agent de texture,2,E425
+57,Agent de texture,2,E426
+58,Agent de texture,2,E431
+59,Agent de texture,2,E440
+60,Agent de texture,2,E445
+61,Agent de texture,2,E459
+62,Agent de texture,2,E460
+63,Agent de texture,2,E461
+64,Agent de texture,2,E462Éthylcellulose
+65,Agent d'enrobage,2,E463a
+66,Agent de texture,2,E463
+67,Agent de texture,2,E464
+68,Agent de texture,2,E465
+69,Agent de texture,2,E470a
+70,Agent de texture,2,E470b
+71,Agent de texture,2,E483
+72,Régulateur d'acidité,2,E500
+73,Régulateur d'acidité,2,E504
+74,Agent de texture,2,E511
+75,Antioxydant,2,E512
+76,Régulateur d'acidité,2,E530
+77,Antiagglomérant,2,E534
+78,Antiagglomérant,2,E535
+79,Antiagglomérant,2,E536
+80,Antiagglomérant,2,E538
+81,Régulateur d'acidité,2,E575
+82,Agent de rétention de la couleur,2,E5864-
+83,Exhausteur de goût,2,E626
+84,Exhausteur de goût,2,E627
+85,Exhausteur de goût,2,E628
+86,Exhausteur de goût,2,E629
+87,Exhausteur de goût,2,E630
+88,Exhausteur de goût,2,E631
+89,Exhausteur de goût,2,E632
+90,Exhausteur de goût,2,E633
+91,Exhausteur de goût,2,E634
+92,Exhausteur de goût,2,E635
+93,Exhausteur de goût,2,E650
+94,Agent d'enrobage,2,E905
+95,Agent d'enrobage,2,E914
+96,Gaz de conditionnement,2,E942
+97,Gaz de conditionnement,2,E948
+98,Édulcorant,2,E953
+99,Édulcorant,2,E957
+100,Édulcorant,2,E959
+101,Édulcorant,2,E960
+102,Édulcorant,2,E961
+103,Édulcorant,2,E964
+104,Édulcorant,2,E965
+105,Édulcorant,2,E966
+106,Édulcorant,2,E967
+107,Édulcorant,2,E968ÉrythritolÉdulcorant
+108,Édulcorant,2,E969
+109,Agent de texture,2,E999
+110,Conservateur,2,E1105
+111,Agent de texture,2,E1200
+112,Agent de texture,2,E1440
+113,Agent de texture,2,E1505
+0,Colorant,3,E120
+1,Colorant,3,E123
+2,Colorant,3,E131
+3,Colorant,3,E172
+4,Colorant,3,E173
+5,Colorant,3,E174
+6,Conservateur,3,E214
+7,Conservateur,3,E218
+8,Antioxydant,3,E319
+9,Antioxydant,3,E338
+10,Antioxydant,3,E339
+11,Antioxydant,3,E340
+12,Antioxydant,3,E343
+13,Agent de texture,3,E432
+14,Agent de texture,3,E433
+15,Agent de texture,3,E434
+16,Agent de texture,3,E435
+17,Agent de texture,3,E436
+18,Agent de texture,3,E442
+19,Agent de texture,3,E450
+20,Agent de texture,3,E451
+21,Agent de texture,3,E452
+22,Agent de texture,3,E466
+23,Agent de texture,3,E468
+24,Agent de texture,3,E469
+25,Agent de texture,3,E471
+26,Agent de texture,3,E472a
+27,Agent de texture,3,E472b
+28,Agent de texture,3,E472c
+29,Agent de texture,3,E472d
+30,Agent de texture,3,E472e
+31,Agent de texture,3,E472f
+32,Agent de texture,3,E473
+33,Agent de texture,3,E474
+34,Agent de texture,3,E475
+35,Agent de texture,3,E476
+36,Agent de texture,3,E477
+37,Agent de texture,3,E479b
+38,Agent de texture,3,E481
+39,Agent de texture,3,E482
+40,Agent de texture,3,E491
+41,Agent de texture,3,E492
+42,Agent de texture,3,E493
+43,Agent de texture,3,E494
+44,Agent de texture,3,E495
+45,Agent de texture,3,E520
+46,Agent de texture,3,E521
+47,Régulateur d'acidité,3,E522
+48,Régulateur d'acidité,3,E523
+49,Régulateur d'acidité,3,E541
+50,Antiagglomérant,3,E551
+51,Antiagglomérant,3,E552
+52,Antiagglomérant,3,E553a
+53,Antiagglomérant,3,E553b
+54,Exhausteur de goût,3,E620
+55,Exhausteur de goût,3,E621
+56,Exhausteur de goût,3,E622
+57,Exhausteur de goût,3,E623
+58,Exhausteur de goût,3,E624
+59,Exhausteur de goût,3,E625
+60,Édulcorant,3,E950
+61,Édulcorant,3,E951
+62,Édulcorant,3,E952
+63,Édulcorant,3,E954
+64,Édulcorant,3,E955
+65,Édulcorant,3,E962
+66,Agent de texture,3,E1410
+67,Agent de texture,3,E1412
+68,Agent de texture,3,E1413
+69,Agent de texture,3,E1414
+70,Agent de texture,3,E1442
+71,Agent de texture,3,E1452
+72,Agent de texture,3,E14
+0,Colorant,4,E102
+1,Colorant,4,E104
+2,Colorant,4,E110
+3,Colorant,4,E122
+4,Colorant,4,E124
+5,Colorant,4,E129
+6,Colorant,4,E150c
+7,Colorant,4,E150d
+8,Colorant,4,E171
+9,Conservateur,4,E210
+10,Conservateur,4,E211
+11,Conservateur,4,E212
+12,Conservateur,4,E213
+13,Conservateur,4,E249
+14,Conservateur,4,E250
+15,Conservateur,4,E251
+16,Conservateur,4,E252
+17,Conservateur,4,E284
+18,Conservateur,4,E285
+19,Antioxydant,4,E320
+20,Antioxydant,4,E341
+21,Antiagglomérant,4,E554
+22,Support,4,E555
