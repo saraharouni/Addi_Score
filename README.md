@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/saraharouni/Addi_Score/blob/main/logo.png?raw=true" alt="Alt Text">
+</p>
+
+
 # Addi_Score
 
 Lien pour télécharger les données :
