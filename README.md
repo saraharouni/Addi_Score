@@ -20,8 +20,8 @@ Les étapes du projet sont les suivantes :
 
 * **Production de visualisations** tout au long de l'analyse pour mieux comprendre les données. Réalisation d'analyses univariées pour chaque variable intéressante afin de synthétiser son comportement. Les visualisations doivent être simples à comprendre pour un public néophyte, en faisant attention à la lisibilité et en utilisant différents types de graphiques.
 
-* **Confirmation ou infirmation des hypothèses** à l'aide d'une analyse multivariée. Réalisation des tests statistiques appropriés pour vérifier la significativité des résultats.
+* **Confirmation ou infirmation des hypothèses** à l'aide d'une analyse multivariée. Réalisation des **tests statistiques** appropriés pour vérifier la significativité des résultats.
 
-* **Justification de l'idée d'application** en identifiant des arguments basés sur les données Open Food Facts, démontrant la faisabilité ou non de l'application proposée.
+* **Justification de l'idée d'application** en identifiant des arguments basés sur les données **Open Food Facts**, démontrant la faisabilité ou non de l'application proposée.
 
 * **Rédaction d'un rapport d'exploration** détaillant les étapes et résultats du projet, ainsi que la présentation orale de l'idée lors de la soutenance.
